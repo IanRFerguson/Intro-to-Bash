@@ -17,7 +17,7 @@ ls -t		# Sort visible files by time modified (recent == top)
 
 # You can also combine these arguments together
 
-ls -alt		List all files with ownership data sorted by time
+ls -alt		# List all files with ownership data sorted by time
 
 # You can list the contents of subfolders by providing an additional argument
 
