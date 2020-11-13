@@ -6,4 +6,6 @@ Shell script files are denoted with .sh after the filename.
 
 Make sure to include the shebang tag - **#!/usr/bin/env bash** at the top of any script that you want your machine to interpret as Bash code.
 
-Find an index of bash commands <a href="https://ss64.com/bash" target="_blank">here</a>!
+See below for some cheatsheets from more qualified sources:
+* [SS64](https://ss64.com/bash)
+* [DevHints](https://devhints.io/bash)
