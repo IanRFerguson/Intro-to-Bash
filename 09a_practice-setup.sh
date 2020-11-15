@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd 08_Bash-Scripting-Practice/
+cd BASH-SCRIPTING-PRACTICE/
 
 rm -r *
 
