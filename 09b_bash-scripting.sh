@@ -2,7 +2,7 @@
 
 # ----------------- Navigate directory
 
-target="08_Bash-Scripting-Practice/"
+target="BASH-SCRIPTING-PRACTICE/"
 cd $target
 
 # ----------------- Count local files
